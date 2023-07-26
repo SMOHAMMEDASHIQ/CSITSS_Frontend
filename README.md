@@ -1,6 +1,6 @@
 # CSITSS_Frontend
 
-Click on the  link to see the website:
+Click on the link to see the website:
 https://smohammedashiq.github.io/sample/
 
 
