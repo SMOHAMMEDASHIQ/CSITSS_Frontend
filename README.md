@@ -1,7 +1,7 @@
 # CSITSS_Frontend
 
-## Click on the link to see the website:
-https://smohammedashiq.github.io/sample/
+## Click on the below link to see the website:
+### https://smohammedashiq.github.io/sample/
 
 
 🚀 Welcome to my GitHub repository! 🚀
